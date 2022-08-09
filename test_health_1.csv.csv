@@ -1,0 +1,1708 @@
+id,expected
+0,hive being robbed
+1,healthy
+2,"Varroa, Small Hive Beetles"
+3,ant problems
+4,healthy
+5,healthy
+6,healthy
+7,healthy
+8,healthy
+9,healthy
+10,healthy
+11,healthy
+12,"few varrao, hive beetles"
+13,healthy
+14,healthy
+15,"Varroa, Small Hive Beetles"
+16,"few varrao, hive beetles"
+17,healthy
+18,"few varrao, hive beetles"
+19,healthy
+20,healthy
+21,healthy
+22,healthy
+23,healthy
+24,"few varrao, hive beetles"
+25,healthy
+26,healthy
+27,healthy
+28,healthy
+29,ant problems
+30,healthy
+31,healthy
+32,healthy
+33,healthy
+34,hive being robbed
+35,healthy
+36,ant problems
+37,healthy
+38,healthy
+39,missing queen
+40,healthy
+41,"Varroa, Small Hive Beetles"
+42,healthy
+43,ant problems
+44,healthy
+45,healthy
+46,healthy
+47,ant problems
+48,healthy
+49,healthy
+50,"Varroa, Small Hive Beetles"
+51,"Varroa, Small Hive Beetles"
+52,"few varrao, hive beetles"
+53,healthy
+54,ant problems
+55,healthy
+56,"few varrao, hive beetles"
+57,healthy
+58,healthy
+59,"few varrao, hive beetles"
+60,"Varroa, Small Hive Beetles"
+61,healthy
+62,healthy
+63,healthy
+64,"few varrao, hive beetles"
+65,"few varrao, hive beetles"
+66,ant problems
+67,healthy
+68,"Varroa, Small Hive Beetles"
+69,"few varrao, hive beetles"
+70,healthy
+71,healthy
+72,healthy
+73,hive being robbed
+74,healthy
+75,healthy
+76,hive being robbed
+77,"few varrao, hive beetles"
+78,healthy
+79,healthy
+80,"Varroa, Small Hive Beetles"
+81,healthy
+82,healthy
+83,healthy
+84,healthy
+85,healthy
+86,healthy
+87,"Varroa, Small Hive Beetles"
+88,healthy
+89,hive being robbed
+90,healthy
+91,ant problems
+92,healthy
+93,"few varrao, hive beetles"
+94,healthy
+95,"few varrao, hive beetles"
+96,healthy
+97,healthy
+98,"Varroa, Small Hive Beetles"
+99,healthy
+100,healthy
+101,healthy
+102,"few varrao, hive beetles"
+103,ant problems
+104,"few varrao, hive beetles"
+105,healthy
+106,healthy
+107,healthy
+108,healthy
+109,healthy
+110,"Varroa, Small Hive Beetles"
+111,healthy
+112,"few varrao, hive beetles"
+113,hive being robbed
+114,healthy
+115,healthy
+116,hive being robbed
+117,"few varrao, hive beetles"
+118,"few varrao, hive beetles"
+119,"Varroa, Small Hive Beetles"
+120,healthy
+121,healthy
+122,healthy
+123,"Varroa, Small Hive Beetles"
+124,healthy
+125,healthy
+126,healthy
+127,healthy
+128,hive being robbed
+129,healthy
+130,healthy
+131,"Varroa, Small Hive Beetles"
+132,healthy
+133,healthy
+134,healthy
+135,"Varroa, Small Hive Beetles"
+136,"Varroa, Small Hive Beetles"
+137,healthy
+138,healthy
+139,ant problems
+140,ant problems
+141,healthy
+142,healthy
+143,ant problems
+144,"few varrao, hive beetles"
+145,healthy
+146,ant problems
+147,healthy
+148,"Varroa, Small Hive Beetles"
+149,healthy
+150,healthy
+151,healthy
+152,healthy
+153,healthy
+154,hive being robbed
+155,healthy
+156,ant problems
+157,healthy
+158,healthy
+159,"Varroa, Small Hive Beetles"
+160,"Varroa, Small Hive Beetles"
+161,healthy
+162,healthy
+163,"few varrao, hive beetles"
+164,healthy
+165,healthy
+166,healthy
+167,"few varrao, hive beetles"
+168,healthy
+169,healthy
+170,ant problems
+171,"few varrao, hive beetles"
+172,healthy
+173,healthy
+174,"few varrao, hive beetles"
+175,healthy
+176,ant problems
+177,healthy
+178,healthy
+179,ant problems
+180,healthy
+181,healthy
+182,healthy
+183,healthy
+184,"Varroa, Small Hive Beetles"
+185,healthy
+186,healthy
+187,healthy
+188,hive being robbed
+189,healthy
+190,healthy
+191,healthy
+192,"few varrao, hive beetles"
+193,ant problems
+194,"few varrao, hive beetles"
+195,healthy
+196,healthy
+197,hive being robbed
+198,healthy
+199,healthy
+200,healthy
+201,healthy
+202,"Varroa, Small Hive Beetles"
+203,healthy
+204,"few varrao, hive beetles"
+205,ant problems
+206,healthy
+207,"few varrao, hive beetles"
+208,"few varrao, hive beetles"
+209,healthy
+210,healthy
+211,healthy
+212,ant problems
+213,healthy
+214,healthy
+215,healthy
+216,healthy
+217,"Varroa, Small Hive Beetles"
+218,healthy
+219,healthy
+220,healthy
+221,"Varroa, Small Hive Beetles"
+222,healthy
+223,healthy
+224,healthy
+225,healthy
+226,healthy
+227,healthy
+228,healthy
+229,healthy
+230,healthy
+231,healthy
+232,ant problems
+233,"few varrao, hive beetles"
+234,healthy
+235,healthy
+236,healthy
+237,ant problems
+238,healthy
+239,"few varrao, hive beetles"
+240,healthy
+241,"few varrao, hive beetles"
+242,"few varrao, hive beetles"
+243,"Varroa, Small Hive Beetles"
+244,hive being robbed
+245,healthy
+246,"few varrao, hive beetles"
+247,healthy
+248,healthy
+249,hive being robbed
+250,healthy
+251,healthy
+252,healthy
+253,"Varroa, Small Hive Beetles"
+254,healthy
+255,"Varroa, Small Hive Beetles"
+256,healthy
+257,"Varroa, Small Hive Beetles"
+258,missing queen
+259,healthy
+260,"few varrao, hive beetles"
+261,healthy
+262,healthy
+263,"Varroa, Small Hive Beetles"
+264,healthy
+265,healthy
+266,healthy
+267,healthy
+268,healthy
+269,healthy
+270,healthy
+271,healthy
+272,"Varroa, Small Hive Beetles"
+273,healthy
+274,healthy
+275,healthy
+276,healthy
+277,healthy
+278,healthy
+279,healthy
+280,"few varrao, hive beetles"
+281,"Varroa, Small Hive Beetles"
+282,healthy
+283,healthy
+284,healthy
+285,healthy
+286,healthy
+287,healthy
+288,healthy
+289,hive being robbed
+290,"Varroa, Small Hive Beetles"
+291,healthy
+292,healthy
+293,healthy
+294,"few varrao, hive beetles"
+295,"Varroa, Small Hive Beetles"
+296,healthy
+297,healthy
+298,healthy
+299,healthy
+300,"few varrao, hive beetles"
+301,healthy
+302,healthy
+303,ant problems
+304,healthy
+305,healthy
+306,healthy
+307,healthy
+308,healthy
+309,healthy
+310,healthy
+311,healthy
+312,"Varroa, Small Hive Beetles"
+313,healthy
+314,healthy
+315,"few varrao, hive beetles"
+316,healthy
+317,"few varrao, hive beetles"
+318,healthy
+319,healthy
+320,"few varrao, hive beetles"
+321,healthy
+322,healthy
+323,"Varroa, Small Hive Beetles"
+324,"few varrao, hive beetles"
+325,healthy
+326,healthy
+327,ant problems
+328,ant problems
+329,"Varroa, Small Hive Beetles"
+330,healthy
+331,ant problems
+332,healthy
+333,healthy
+334,healthy
+335,"few varrao, hive beetles"
+336,healthy
+337,healthy
+338,"Varroa, Small Hive Beetles"
+339,healthy
+340,"few varrao, hive beetles"
+341,"Varroa, Small Hive Beetles"
+342,healthy
+343,hive being robbed
+344,healthy
+345,"Varroa, Small Hive Beetles"
+346,ant problems
+347,healthy
+348,healthy
+349,ant problems
+350,"few varrao, hive beetles"
+351,hive being robbed
+352,ant problems
+353,healthy
+354,healthy
+355,"few varrao, hive beetles"
+356,healthy
+357,ant problems
+358,healthy
+359,ant problems
+360,"Varroa, Small Hive Beetles"
+361,healthy
+362,healthy
+363,hive being robbed
+364,"few varrao, hive beetles"
+365,healthy
+366,healthy
+367,"few varrao, hive beetles"
+368,"Varroa, Small Hive Beetles"
+369,healthy
+370,healthy
+371,ant problems
+372,"few varrao, hive beetles"
+373,healthy
+374,ant problems
+375,"few varrao, hive beetles"
+376,healthy
+377,healthy
+378,healthy
+379,healthy
+380,healthy
+381,healthy
+382,healthy
+383,healthy
+384,healthy
+385,healthy
+386,healthy
+387,healthy
+388,healthy
+389,healthy
+390,healthy
+391,healthy
+392,healthy
+393,"Varroa, Small Hive Beetles"
+394,healthy
+395,"few varrao, hive beetles"
+396,"Varroa, Small Hive Beetles"
+397,healthy
+398,"Varroa, Small Hive Beetles"
+399,healthy
+400,hive being robbed
+401,healthy
+402,healthy
+403,healthy
+404,healthy
+405,healthy
+406,"Varroa, Small Hive Beetles"
+407,healthy
+408,healthy
+409,ant problems
+410,healthy
+411,healthy
+412,"Varroa, Small Hive Beetles"
+413,healthy
+414,hive being robbed
+415,"Varroa, Small Hive Beetles"
+416,healthy
+417,ant problems
+418,healthy
+419,"Varroa, Small Hive Beetles"
+420,"few varrao, hive beetles"
+421,healthy
+422,healthy
+423,"few varrao, hive beetles"
+424,healthy
+425,healthy
+426,"Varroa, Small Hive Beetles"
+427,healthy
+428,healthy
+429,healthy
+430,missing queen
+431,healthy
+432,healthy
+433,healthy
+434,"Varroa, Small Hive Beetles"
+435,healthy
+436,healthy
+437,healthy
+438,"Varroa, Small Hive Beetles"
+439,healthy
+440,healthy
+441,"few varrao, hive beetles"
+442,healthy
+443,healthy
+444,healthy
+445,"Varroa, Small Hive Beetles"
+446,healthy
+447,healthy
+448,hive being robbed
+449,healthy
+450,"Varroa, Small Hive Beetles"
+451,healthy
+452,healthy
+453,healthy
+454,healthy
+455,healthy
+456,healthy
+457,healthy
+458,healthy
+459,healthy
+460,healthy
+461,"few varrao, hive beetles"
+462,"few varrao, hive beetles"
+463,healthy
+464,healthy
+465,healthy
+466,healthy
+467,"Varroa, Small Hive Beetles"
+468,"few varrao, hive beetles"
+469,healthy
+470,healthy
+471,ant problems
+472,healthy
+473,healthy
+474,hive being robbed
+475,healthy
+476,healthy
+477,hive being robbed
+478,healthy
+479,healthy
+480,healthy
+481,ant problems
+482,healthy
+483,"few varrao, hive beetles"
+484,"Varroa, Small Hive Beetles"
+485,healthy
+486,healthy
+487,healthy
+488,healthy
+489,healthy
+490,"Varroa, Small Hive Beetles"
+491,healthy
+492,healthy
+493,healthy
+494,healthy
+495,healthy
+496,ant problems
+497,healthy
+498,healthy
+499,ant problems
+500,healthy
+501,healthy
+502,healthy
+503,"Varroa, Small Hive Beetles"
+504,"few varrao, hive beetles"
+505,healthy
+506,"Varroa, Small Hive Beetles"
+507,healthy
+508,healthy
+509,"Varroa, Small Hive Beetles"
+510,"Varroa, Small Hive Beetles"
+511,healthy
+512,"Varroa, Small Hive Beetles"
+513,healthy
+514,healthy
+515,"few varrao, hive beetles"
+516,healthy
+517,healthy
+518,healthy
+519,healthy
+520,hive being robbed
+521,healthy
+522,healthy
+523,healthy
+524,healthy
+525,healthy
+526,"few varrao, hive beetles"
+527,"Varroa, Small Hive Beetles"
+528,healthy
+529,healthy
+530,ant problems
+531,healthy
+532,healthy
+533,"Varroa, Small Hive Beetles"
+534,healthy
+535,healthy
+536,healthy
+537,healthy
+538,"Varroa, Small Hive Beetles"
+539,healthy
+540,healthy
+541,healthy
+542,healthy
+543,healthy
+544,"Varroa, Small Hive Beetles"
+545,healthy
+546,healthy
+547,healthy
+548,"few varrao, hive beetles"
+549,ant problems
+550,"Varroa, Small Hive Beetles"
+551,healthy
+552,ant problems
+553,healthy
+554,healthy
+555,hive being robbed
+556,"few varrao, hive beetles"
+557,healthy
+558,healthy
+559,healthy
+560,healthy
+561,healthy
+562,healthy
+563,"few varrao, hive beetles"
+564,"few varrao, hive beetles"
+565,healthy
+566,healthy
+567,healthy
+568,healthy
+569,healthy
+570,healthy
+571,healthy
+572,"Varroa, Small Hive Beetles"
+573,healthy
+574,ant problems
+575,"Varroa, Small Hive Beetles"
+576,"few varrao, hive beetles"
+577,ant problems
+578,"Varroa, Small Hive Beetles"
+579,ant problems
+580,"Varroa, Small Hive Beetles"
+581,healthy
+582,healthy
+583,healthy
+584,healthy
+585,healthy
+586,healthy
+587,healthy
+588,"few varrao, hive beetles"
+589,"few varrao, hive beetles"
+590,"Varroa, Small Hive Beetles"
+591,healthy
+592,ant problems
+593,"Varroa, Small Hive Beetles"
+594,healthy
+595,healthy
+596,"few varrao, hive beetles"
+597,"Varroa, Small Hive Beetles"
+598,healthy
+599,healthy
+600,"Varroa, Small Hive Beetles"
+601,"few varrao, hive beetles"
+602,healthy
+603,healthy
+604,"few varrao, hive beetles"
+605,"Varroa, Small Hive Beetles"
+606,healthy
+607,healthy
+608,healthy
+609,"Varroa, Small Hive Beetles"
+610,healthy
+611,healthy
+612,healthy
+613,healthy
+614,"Varroa, Small Hive Beetles"
+615,healthy
+616,healthy
+617,healthy
+618,healthy
+619,"Varroa, Small Hive Beetles"
+620,ant problems
+621,healthy
+622,"Varroa, Small Hive Beetles"
+623,healthy
+624,"few varrao, hive beetles"
+625,healthy
+626,"Varroa, Small Hive Beetles"
+627,healthy
+628,healthy
+629,ant problems
+630,healthy
+631,healthy
+632,"few varrao, hive beetles"
+633,healthy
+634,healthy
+635,healthy
+636,healthy
+637,healthy
+638,healthy
+639,healthy
+640,"Varroa, Small Hive Beetles"
+641,healthy
+642,ant problems
+643,healthy
+644,ant problems
+645,healthy
+646,healthy
+647,healthy
+648,healthy
+649,ant problems
+650,"Varroa, Small Hive Beetles"
+651,hive being robbed
+652,"few varrao, hive beetles"
+653,hive being robbed
+654,ant problems
+655,healthy
+656,"few varrao, hive beetles"
+657,healthy
+658,healthy
+659,healthy
+660,"few varrao, hive beetles"
+661,"Varroa, Small Hive Beetles"
+662,healthy
+663,healthy
+664,healthy
+665,healthy
+666,hive being robbed
+667,healthy
+668,healthy
+669,healthy
+670,"few varrao, hive beetles"
+671,"Varroa, Small Hive Beetles"
+672,healthy
+673,healthy
+674,healthy
+675,healthy
+676,hive being robbed
+677,healthy
+678,healthy
+679,healthy
+680,ant problems
+681,healthy
+682,healthy
+683,"Varroa, Small Hive Beetles"
+684,"Varroa, Small Hive Beetles"
+685,healthy
+686,healthy
+687,healthy
+688,"few varrao, hive beetles"
+689,healthy
+690,healthy
+691,healthy
+692,healthy
+693,healthy
+694,ant problems
+695,hive being robbed
+696,"Varroa, Small Hive Beetles"
+697,healthy
+698,healthy
+699,"Varroa, Small Hive Beetles"
+700,ant problems
+701,hive being robbed
+702,healthy
+703,healthy
+704,healthy
+705,"Varroa, Small Hive Beetles"
+706,healthy
+707,"Varroa, Small Hive Beetles"
+708,healthy
+709,healthy
+710,hive being robbed
+711,"Varroa, Small Hive Beetles"
+712,ant problems
+713,healthy
+714,"Varroa, Small Hive Beetles"
+715,healthy
+716,healthy
+717,healthy
+718,healthy
+719,healthy
+720,healthy
+721,ant problems
+722,ant problems
+723,healthy
+724,"few varrao, hive beetles"
+725,healthy
+726,healthy
+727,healthy
+728,hive being robbed
+729,healthy
+730,"few varrao, hive beetles"
+731,healthy
+732,healthy
+733,healthy
+734,healthy
+735,"Varroa, Small Hive Beetles"
+736,ant problems
+737,healthy
+738,ant problems
+739,healthy
+740,hive being robbed
+741,healthy
+742,hive being robbed
+743,ant problems
+744,ant problems
+745,healthy
+746,"few varrao, hive beetles"
+747,healthy
+748,healthy
+749,healthy
+750,healthy
+751,"few varrao, hive beetles"
+752,healthy
+753,healthy
+754,"Varroa, Small Hive Beetles"
+755,healthy
+756,"Varroa, Small Hive Beetles"
+757,healthy
+758,healthy
+759,healthy
+760,healthy
+761,healthy
+762,healthy
+763,healthy
+764,healthy
+765,healthy
+766,ant problems
+767,"few varrao, hive beetles"
+768,"Varroa, Small Hive Beetles"
+769,healthy
+770,"few varrao, hive beetles"
+771,healthy
+772,healthy
+773,healthy
+774,healthy
+775,healthy
+776,healthy
+777,hive being robbed
+778,ant problems
+779,healthy
+780,healthy
+781,healthy
+782,healthy
+783,healthy
+784,ant problems
+785,"Varroa, Small Hive Beetles"
+786,healthy
+787,healthy
+788,healthy
+789,healthy
+790,healthy
+791,healthy
+792,healthy
+793,healthy
+794,healthy
+795,healthy
+796,"few varrao, hive beetles"
+797,"Varroa, Small Hive Beetles"
+798,healthy
+799,healthy
+800,healthy
+801,healthy
+802,healthy
+803,"few varrao, hive beetles"
+804,healthy
+805,healthy
+806,healthy
+807,healthy
+808,healthy
+809,"few varrao, hive beetles"
+810,healthy
+811,healthy
+812,"Varroa, Small Hive Beetles"
+813,healthy
+814,ant problems
+815,healthy
+816,hive being robbed
+817,"few varrao, hive beetles"
+818,healthy
+819,healthy
+820,healthy
+821,healthy
+822,healthy
+823,healthy
+824,healthy
+825,healthy
+826,healthy
+827,"few varrao, hive beetles"
+828,healthy
+829,healthy
+830,healthy
+831,hive being robbed
+832,healthy
+833,healthy
+834,healthy
+835,"few varrao, hive beetles"
+836,healthy
+837,ant problems
+838,hive being robbed
+839,healthy
+840,healthy
+841,ant problems
+842,ant problems
+843,hive being robbed
+844,healthy
+845,healthy
+846,healthy
+847,healthy
+848,"few varrao, hive beetles"
+849,healthy
+850,healthy
+851,healthy
+852,healthy
+853,healthy
+854,"Varroa, Small Hive Beetles"
+855,hive being robbed
+856,healthy
+857,ant problems
+858,healthy
+859,ant problems
+860,healthy
+861,"Varroa, Small Hive Beetles"
+862,"Varroa, Small Hive Beetles"
+863,hive being robbed
+864,ant problems
+865,"few varrao, hive beetles"
+866,"few varrao, hive beetles"
+867,healthy
+868,healthy
+869,"Varroa, Small Hive Beetles"
+870,healthy
+871,healthy
+872,healthy
+873,"Varroa, Small Hive Beetles"
+874,healthy
+875,hive being robbed
+876,healthy
+877,"few varrao, hive beetles"
+878,healthy
+879,"few varrao, hive beetles"
+880,healthy
+881,healthy
+882,healthy
+883,healthy
+884,healthy
+885,healthy
+886,hive being robbed
+887,healthy
+888,ant problems
+889,healthy
+890,healthy
+891,healthy
+892,ant problems
+893,healthy
+894,healthy
+895,ant problems
+896,healthy
+897,healthy
+898,healthy
+899,"Varroa, Small Hive Beetles"
+900,ant problems
+901,healthy
+902,healthy
+903,hive being robbed
+904,healthy
+905,healthy
+906,healthy
+907,"few varrao, hive beetles"
+908,healthy
+909,healthy
+910,healthy
+911,healthy
+912,"Varroa, Small Hive Beetles"
+913,"few varrao, hive beetles"
+914,"Varroa, Small Hive Beetles"
+915,healthy
+916,healthy
+917,"few varrao, hive beetles"
+918,"few varrao, hive beetles"
+919,"Varroa, Small Hive Beetles"
+920,healthy
+921,healthy
+922,healthy
+923,"Varroa, Small Hive Beetles"
+924,hive being robbed
+925,healthy
+926,healthy
+927,"Varroa, Small Hive Beetles"
+928,hive being robbed
+929,healthy
+930,"few varrao, hive beetles"
+931,healthy
+932,"few varrao, hive beetles"
+933,healthy
+934,"Varroa, Small Hive Beetles"
+935,healthy
+936,healthy
+937,healthy
+938,hive being robbed
+939,healthy
+940,healthy
+941,healthy
+942,healthy
+943,ant problems
+944,hive being robbed
+945,"Varroa, Small Hive Beetles"
+946,healthy
+947,"few varrao, hive beetles"
+948,ant problems
+949,healthy
+950,healthy
+951,healthy
+952,healthy
+953,"Varroa, Small Hive Beetles"
+954,healthy
+955,healthy
+956,"Varroa, Small Hive Beetles"
+957,"Varroa, Small Hive Beetles"
+958,"Varroa, Small Hive Beetles"
+959,healthy
+960,healthy
+961,ant problems
+962,healthy
+963,hive being robbed
+964,healthy
+965,healthy
+966,healthy
+967,healthy
+968,healthy
+969,healthy
+970,healthy
+971,healthy
+972,healthy
+973,healthy
+974,healthy
+975,healthy
+976,healthy
+977,"few varrao, hive beetles"
+978,healthy
+979,"few varrao, hive beetles"
+980,healthy
+981,healthy
+982,healthy
+983,healthy
+984,healthy
+985,hive being robbed
+986,hive being robbed
+987,healthy
+988,healthy
+989,ant problems
+990,healthy
+991,healthy
+992,"Varroa, Small Hive Beetles"
+993,hive being robbed
+994,healthy
+995,ant problems
+996,"Varroa, Small Hive Beetles"
+997,healthy
+998,healthy
+999,"few varrao, hive beetles"
+1000,healthy
+1001,healthy
+1002,ant problems
+1003,"few varrao, hive beetles"
+1004,healthy
+1005,healthy
+1006,ant problems
+1007,ant problems
+1008,hive being robbed
+1009,healthy
+1010,"few varrao, hive beetles"
+1011,healthy
+1012,healthy
+1013,"few varrao, hive beetles"
+1014,healthy
+1015,healthy
+1016,"Varroa, Small Hive Beetles"
+1017,healthy
+1018,hive being robbed
+1019,healthy
+1020,healthy
+1021,healthy
+1022,"Varroa, Small Hive Beetles"
+1023,healthy
+1024,healthy
+1025,healthy
+1026,healthy
+1027,healthy
+1028,healthy
+1029,healthy
+1030,healthy
+1031,missing queen
+1032,"Varroa, Small Hive Beetles"
+1033,healthy
+1034,healthy
+1035,healthy
+1036,healthy
+1037,healthy
+1038,healthy
+1039,"few varrao, hive beetles"
+1040,healthy
+1041,healthy
+1042,healthy
+1043,healthy
+1044,healthy
+1045,hive being robbed
+1046,"Varroa, Small Hive Beetles"
+1047,healthy
+1048,hive being robbed
+1049,healthy
+1050,healthy
+1051,healthy
+1052,healthy
+1053,ant problems
+1054,ant problems
+1055,healthy
+1056,healthy
+1057,healthy
+1058,healthy
+1059,healthy
+1060,"Varroa, Small Hive Beetles"
+1061,healthy
+1062,healthy
+1063,"few varrao, hive beetles"
+1064,"few varrao, hive beetles"
+1065,healthy
+1066,healthy
+1067,ant problems
+1068,"few varrao, hive beetles"
+1069,healthy
+1070,healthy
+1071,healthy
+1072,hive being robbed
+1073,healthy
+1074,"few varrao, hive beetles"
+1075,healthy
+1076,healthy
+1077,healthy
+1078,healthy
+1079,healthy
+1080,ant problems
+1081,hive being robbed
+1082,healthy
+1083,healthy
+1084,healthy
+1085,healthy
+1086,hive being robbed
+1087,ant problems
+1088,ant problems
+1089,"few varrao, hive beetles"
+1090,healthy
+1091,ant problems
+1092,healthy
+1093,healthy
+1094,hive being robbed
+1095,healthy
+1096,healthy
+1097,healthy
+1098,ant problems
+1099,healthy
+1100,ant problems
+1101,hive being robbed
+1102,healthy
+1103,ant problems
+1104,"Varroa, Small Hive Beetles"
+1105,healthy
+1106,healthy
+1107,healthy
+1108,healthy
+1109,"Varroa, Small Hive Beetles"
+1110,healthy
+1111,"few varrao, hive beetles"
+1112,healthy
+1113,ant problems
+1114,"Varroa, Small Hive Beetles"
+1115,healthy
+1116,healthy
+1117,"few varrao, hive beetles"
+1118,"Varroa, Small Hive Beetles"
+1119,hive being robbed
+1120,healthy
+1121,healthy
+1122,healthy
+1123,hive being robbed
+1124,healthy
+1125,healthy
+1126,healthy
+1127,healthy
+1128,healthy
+1129,healthy
+1130,"few varrao, hive beetles"
+1131,hive being robbed
+1132,"few varrao, hive beetles"
+1133,healthy
+1134,healthy
+1135,"few varrao, hive beetles"
+1136,hive being robbed
+1137,healthy
+1138,hive being robbed
+1139,"few varrao, hive beetles"
+1140,ant problems
+1141,hive being robbed
+1142,healthy
+1143,healthy
+1144,healthy
+1145,"few varrao, hive beetles"
+1146,hive being robbed
+1147,"Varroa, Small Hive Beetles"
+1148,"few varrao, hive beetles"
+1149,healthy
+1150,healthy
+1151,"Varroa, Small Hive Beetles"
+1152,healthy
+1153,"Varroa, Small Hive Beetles"
+1154,"Varroa, Small Hive Beetles"
+1155,ant problems
+1156,healthy
+1157,healthy
+1158,ant problems
+1159,ant problems
+1160,healthy
+1161,"Varroa, Small Hive Beetles"
+1162,healthy
+1163,healthy
+1164,ant problems
+1165,healthy
+1166,healthy
+1167,healthy
+1168,hive being robbed
+1169,hive being robbed
+1170,ant problems
+1171,hive being robbed
+1172,healthy
+1173,healthy
+1174,hive being robbed
+1175,"few varrao, hive beetles"
+1176,healthy
+1177,healthy
+1178,ant problems
+1179,healthy
+1180,healthy
+1181,healthy
+1182,healthy
+1183,healthy
+1184,"few varrao, hive beetles"
+1185,"Varroa, Small Hive Beetles"
+1186,healthy
+1187,healthy
+1188,healthy
+1189,healthy
+1190,healthy
+1191,healthy
+1192,healthy
+1193,healthy
+1194,"few varrao, hive beetles"
+1195,healthy
+1196,"few varrao, hive beetles"
+1197,healthy
+1198,healthy
+1199,ant problems
+1200,"Varroa, Small Hive Beetles"
+1201,healthy
+1202,healthy
+1203,healthy
+1204,healthy
+1205,healthy
+1206,healthy
+1207,"Varroa, Small Hive Beetles"
+1208,ant problems
+1209,healthy
+1210,healthy
+1211,healthy
+1212,ant problems
+1213,healthy
+1214,"few varrao, hive beetles"
+1215,healthy
+1216,"few varrao, hive beetles"
+1217,healthy
+1218,healthy
+1219,healthy
+1220,ant problems
+1221,healthy
+1222,"few varrao, hive beetles"
+1223,healthy
+1224,healthy
+1225,"Varroa, Small Hive Beetles"
+1226,"few varrao, hive beetles"
+1227,healthy
+1228,"Varroa, Small Hive Beetles"
+1229,"few varrao, hive beetles"
+1230,"few varrao, hive beetles"
+1231,healthy
+1232,healthy
+1233,"few varrao, hive beetles"
+1234,healthy
+1235,"few varrao, hive beetles"
+1236,"Varroa, Small Hive Beetles"
+1237,healthy
+1238,hive being robbed
+1239,hive being robbed
+1240,healthy
+1241,hive being robbed
+1242,healthy
+1243,ant problems
+1244,healthy
+1245,healthy
+1246,healthy
+1247,healthy
+1248,healthy
+1249,"Varroa, Small Hive Beetles"
+1250,healthy
+1251,healthy
+1252,healthy
+1253,healthy
+1254,hive being robbed
+1255,healthy
+1256,"Varroa, Small Hive Beetles"
+1257,healthy
+1258,healthy
+1259,healthy
+1260,"few varrao, hive beetles"
+1261,healthy
+1262,healthy
+1263,healthy
+1264,healthy
+1265,"few varrao, hive beetles"
+1266,healthy
+1267,ant problems
+1268,healthy
+1269,hive being robbed
+1270,healthy
+1271,healthy
+1272,healthy
+1273,healthy
+1274,"few varrao, hive beetles"
+1275,healthy
+1276,healthy
+1277,healthy
+1278,ant problems
+1279,"few varrao, hive beetles"
+1280,"few varrao, hive beetles"
+1281,"Varroa, Small Hive Beetles"
+1282,healthy
+1283,healthy
+1284,healthy
+1285,hive being robbed
+1286,"few varrao, hive beetles"
+1287,healthy
+1288,healthy
+1289,healthy
+1290,healthy
+1291,healthy
+1292,healthy
+1293,healthy
+1294,ant problems
+1295,healthy
+1296,healthy
+1297,ant problems
+1298,healthy
+1299,healthy
+1300,healthy
+1301,healthy
+1302,healthy
+1303,healthy
+1304,healthy
+1305,ant problems
+1306,healthy
+1307,healthy
+1308,healthy
+1309,"few varrao, hive beetles"
+1310,healthy
+1311,"few varrao, hive beetles"
+1312,ant problems
+1313,healthy
+1314,healthy
+1315,healthy
+1316,"Varroa, Small Hive Beetles"
+1317,"Varroa, Small Hive Beetles"
+1318,healthy
+1319,healthy
+1320,healthy
+1321,healthy
+1322,healthy
+1323,ant problems
+1324,missing queen
+1325,healthy
+1326,healthy
+1327,healthy
+1328,"Varroa, Small Hive Beetles"
+1329,healthy
+1330,ant problems
+1331,healthy
+1332,missing queen
+1333,healthy
+1334,healthy
+1335,healthy
+1336,hive being robbed
+1337,healthy
+1338,healthy
+1339,ant problems
+1340,healthy
+1341,healthy
+1342,healthy
+1343,ant problems
+1344,healthy
+1345,healthy
+1346,"few varrao, hive beetles"
+1347,healthy
+1348,healthy
+1349,"few varrao, hive beetles"
+1350,healthy
+1351,healthy
+1352,healthy
+1353,healthy
+1354,healthy
+1355,healthy
+1356,"Varroa, Small Hive Beetles"
+1357,healthy
+1358,"Varroa, Small Hive Beetles"
+1359,"Varroa, Small Hive Beetles"
+1360,healthy
+1361,healthy
+1362,ant problems
+1363,ant problems
+1364,healthy
+1365,healthy
+1366,healthy
+1367,ant problems
+1368,healthy
+1369,healthy
+1370,healthy
+1371,healthy
+1372,healthy
+1373,hive being robbed
+1374,"Varroa, Small Hive Beetles"
+1375,healthy
+1376,healthy
+1377,healthy
+1378,healthy
+1379,hive being robbed
+1380,"Varroa, Small Hive Beetles"
+1381,"few varrao, hive beetles"
+1382,healthy
+1383,ant problems
+1384,"Varroa, Small Hive Beetles"
+1385,healthy
+1386,healthy
+1387,healthy
+1388,"few varrao, hive beetles"
+1389,healthy
+1390,"few varrao, hive beetles"
+1391,healthy
+1392,ant problems
+1393,healthy
+1394,healthy
+1395,healthy
+1396,healthy
+1397,"Varroa, Small Hive Beetles"
+1398,healthy
+1399,healthy
+1400,hive being robbed
+1401,hive being robbed
+1402,healthy
+1403,"few varrao, hive beetles"
+1404,healthy
+1405,healthy
+1406,healthy
+1407,"few varrao, hive beetles"
+1408,"Varroa, Small Hive Beetles"
+1409,"few varrao, hive beetles"
+1410,healthy
+1411,healthy
+1412,hive being robbed
+1413,healthy
+1414,ant problems
+1415,healthy
+1416,healthy
+1417,healthy
+1418,healthy
+1419,"Varroa, Small Hive Beetles"
+1420,healthy
+1421,healthy
+1422,"Varroa, Small Hive Beetles"
+1423,healthy
+1424,healthy
+1425,ant problems
+1426,"few varrao, hive beetles"
+1427,healthy
+1428,"few varrao, hive beetles"
+1429,"few varrao, hive beetles"
+1430,healthy
+1431,healthy
+1432,healthy
+1433,ant problems
+1434,"Varroa, Small Hive Beetles"
+1435,ant problems
+1436,healthy
+1437,"few varrao, hive beetles"
+1438,"few varrao, hive beetles"
+1439,healthy
+1440,healthy
+1441,ant problems
+1442,healthy
+1443,healthy
+1444,"few varrao, hive beetles"
+1445,healthy
+1446,healthy
+1447,healthy
+1448,healthy
+1449,"Varroa, Small Hive Beetles"
+1450,healthy
+1451,healthy
+1452,healthy
+1453,"Varroa, Small Hive Beetles"
+1454,"few varrao, hive beetles"
+1455,healthy
+1456,"Varroa, Small Hive Beetles"
+1457,ant problems
+1458,healthy
+1459,healthy
+1460,"Varroa, Small Hive Beetles"
+1461,healthy
+1462,healthy
+1463,healthy
+1464,healthy
+1465,healthy
+1466,healthy
+1467,healthy
+1468,healthy
+1469,healthy
+1470,healthy
+1471,"Varroa, Small Hive Beetles"
+1472,healthy
+1473,ant problems
+1474,healthy
+1475,healthy
+1476,healthy
+1477,ant problems
+1478,healthy
+1479,"Varroa, Small Hive Beetles"
+1480,healthy
+1481,healthy
+1482,healthy
+1483,healthy
+1484,"few varrao, hive beetles"
+1485,ant problems
+1486,"few varrao, hive beetles"
+1487,healthy
+1488,healthy
+1489,ant problems
+1490,"few varrao, hive beetles"
+1491,"Varroa, Small Hive Beetles"
+1492,"few varrao, hive beetles"
+1493,healthy
+1494,healthy
+1495,healthy
+1496,healthy
+1497,healthy
+1498,ant problems
+1499,healthy
+1500,ant problems
+1501,"few varrao, hive beetles"
+1502,healthy
+1503,hive being robbed
+1504,healthy
+1505,healthy
+1506,healthy
+1507,healthy
+1508,healthy
+1509,healthy
+1510,healthy
+1511,healthy
+1512,healthy
+1513,hive being robbed
+1514,healthy
+1515,"Varroa, Small Hive Beetles"
+1516,healthy
+1517,healthy
+1518,healthy
+1519,healthy
+1520,healthy
+1521,healthy
+1522,"few varrao, hive beetles"
+1523,"few varrao, hive beetles"
+1524,healthy
+1525,healthy
+1526,"few varrao, hive beetles"
+1527,healthy
+1528,healthy
+1529,"Varroa, Small Hive Beetles"
+1530,healthy
+1531,healthy
+1532,healthy
+1533,missing queen
+1534,healthy
+1535,healthy
+1536,healthy
+1537,healthy
+1538,healthy
+1539,ant problems
+1540,"few varrao, hive beetles"
+1541,healthy
+1542,"few varrao, hive beetles"
+1543,healthy
+1544,healthy
+1545,healthy
+1546,"few varrao, hive beetles"
+1547,"few varrao, hive beetles"
+1548,healthy
+1549,healthy
+1550,"Varroa, Small Hive Beetles"
+1551,healthy
+1552,healthy
+1553,healthy
+1554,hive being robbed
+1555,"few varrao, hive beetles"
+1556,hive being robbed
+1557,healthy
+1558,healthy
+1559,hive being robbed
+1560,healthy
+1561,"few varrao, hive beetles"
+1562,"Varroa, Small Hive Beetles"
+1563,healthy
+1564,healthy
+1565,"few varrao, hive beetles"
+1566,healthy
+1567,healthy
+1568,healthy
+1569,healthy
+1570,healthy
+1571,healthy
+1572,healthy
+1573,"few varrao, hive beetles"
+1574,"few varrao, hive beetles"
+1575,ant problems
+1576,hive being robbed
+1577,healthy
+1578,healthy
+1579,healthy
+1580,"Varroa, Small Hive Beetles"
+1581,"Varroa, Small Hive Beetles"
+1582,"few varrao, hive beetles"
+1583,healthy
+1584,healthy
+1585,healthy
+1586,healthy
+1587,"few varrao, hive beetles"
+1588,healthy
+1589,"Varroa, Small Hive Beetles"
+1590,healthy
+1591,hive being robbed
+1592,healthy
+1593,"Varroa, Small Hive Beetles"
+1594,healthy
+1595,healthy
+1596,hive being robbed
+1597,"few varrao, hive beetles"
+1598,healthy
+1599,healthy
+1600,healthy
+1601,healthy
+1602,healthy
+1603,healthy
+1604,healthy
+1605,healthy
+1606,healthy
+1607,healthy
+1608,healthy
+1609,"few varrao, hive beetles"
+1610,missing queen
+1611,ant problems
+1612,healthy
+1613,"few varrao, hive beetles"
+1614,healthy
+1615,ant problems
+1616,healthy
+1617,healthy
+1618,healthy
+1619,healthy
+1620,healthy
+1621,healthy
+1622,"Varroa, Small Hive Beetles"
+1623,healthy
+1624,healthy
+1625,healthy
+1626,healthy
+1627,"few varrao, hive beetles"
+1628,"few varrao, hive beetles"
+1629,hive being robbed
+1630,healthy
+1631,"Varroa, Small Hive Beetles"
+1632,"few varrao, hive beetles"
+1633,healthy
+1634,healthy
+1635,healthy
+1636,healthy
+1637,"Varroa, Small Hive Beetles"
+1638,"few varrao, hive beetles"
+1639,healthy
+1640,"Varroa, Small Hive Beetles"
+1641,healthy
+1642,ant problems
+1643,healthy
+1644,healthy
+1645,healthy
+1646,healthy
+1647,healthy
+1648,healthy
+1649,healthy
+1650,healthy
+1651,healthy
+1652,"Varroa, Small Hive Beetles"
+1653,healthy
+1654,hive being robbed
+1655,healthy
+1656,hive being robbed
+1657,"few varrao, hive beetles"
+1658,healthy
+1659,healthy
+1660,healthy
+1661,healthy
+1662,healthy
+1663,healthy
+1664,healthy
+1665,"Varroa, Small Hive Beetles"
+1666,"Varroa, Small Hive Beetles"
+1667,"few varrao, hive beetles"
+1668,healthy
+1669,healthy
+1670,healthy
+1671,healthy
+1672,healthy
+1673,healthy
+1674,healthy
+1675,healthy
+1676,"Varroa, Small Hive Beetles"
+1677,healthy
+1678,healthy
+1679,healthy
+1680,"few varrao, hive beetles"
+1681,healthy
+1682,healthy
+1683,healthy
+1684,"Varroa, Small Hive Beetles"
+1685,"few varrao, hive beetles"
+1686,healthy
+1687,ant problems
+1688,healthy
+1689,healthy
+1690,ant problems
+1691,hive being robbed
+1692,healthy
+1693,healthy
+1694,"Varroa, Small Hive Beetles"
+1695,healthy
+1696,healthy
+1697,ant problems
+1698,healthy
+1699,hive being robbed
+1700,healthy
+1701,ant problems
+1702,healthy
+1703,"few varrao, hive beetles"
+1704,ant problems
+1705,healthy
+1706,healthy
